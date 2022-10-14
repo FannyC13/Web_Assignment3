@@ -16,9 +16,9 @@ INSERT INTO seller (IDSeller, Firstname, Mail, Lastname) VALUES
 ('SL-2', 'Nox', 'Nox.trapper@gmail.com', 'Trapper'),
 ('SL-3', 'Monette', 'Monette.borgo@gmail.com', 'Borgo'),
 ('SL-4', 'Caroline', 'Caroline.adams@gmail.com', 'Adams'),
-('SL-5', 'Anny', 'Anny.chouteau@gmail.com', 'Chouteau');*/
+('SL-5', 'Anny', 'Anny.chouteau@gmail.com', 'Chouteau');
 
-/*INSERT INTO sell (IDSell, DateS, IDClient, IDProduct, IDSeller) VALUES 
+INSERT INTO sell (IDSell, DateS, IDClient, IDProduct, IDSeller) VALUES 
 ('S1', '2022-05-17', 'CL-4', 'Orch_Phal', 'SL-2'),
 ('S2', '2022-05-24', 'CL-2', 'Cact_Gold', 'SL-3'),
 ('S3', '2022-06-02', 'CL-3', 'Carni_Venus', 'SL-4'),
